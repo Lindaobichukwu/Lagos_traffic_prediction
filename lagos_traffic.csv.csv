@@ -1,0 +1,101 @@
+Date,Time,Day_of_Week,Road_Name,Weather_Condition,Time_of_Day,Traffic_Volume,Delay_Minutes,Congestion_Level
+2026-01-01,00:00,Thursday,Ikorodu Road,Clear,Night,510,12.4,Low / Free Flow
+2026-01-01,01:00,Thursday,Third Mainland Bridge,Clear,Night,820,9.1,Low / Free Flow
+2026-01-01,02:00,Thursday,Lekki-Epe Expressway,Light Rain,Night,640,19.5,Low / Free Flow
+2026-01-01,03:00,Thursday,Apapa-Oshodi Expressway,Clear,Night,410,11.2,Low / Free Flow
+2026-01-01,04:00,Thursday,Third Mainland Bridge,Clear,Night,910,15.6,Low / Free Flow
+2026-01-01,05:00,Thursday,Third Mainland Bridge,Clear,Morning,2950,94.2,Heavy Gridlock
+2026-01-01,06:00,Thursday,Lekki-Epe Expressway,Heavy Rain / Flash Flood,Morning,2810,145.8,Heavy Gridlock
+2026-01-01,07:00,Thursday,Ikorodu Road,Clear,Morning,2100,78.4,Heavy Gridlock
+2026-01-01,08:00,Thursday,Apapa-Oshodi Expressway,Clear,Morning,2430,88.1,Heavy Gridlock
+2026-01-01,09:00,Thursday,Third Mainland Bridge,Light Rain,Morning,3420,112.5,Heavy Gridlock
+2026-01-01,10:00,Thursday,Lekki-Epe Expressway,Clear,Morning,2150,62.4,Heavy Gridlock
+2026-01-01,11:00,Thursday,Ikorodu Road,Clear,Morning,1850,58.1,Heavy Gridlock
+2026-01-01,12:00,Thursday,Third Mainland Bridge,Clear,Afternoon,1980,32.4,Moderate
+2026-01-01,13:00,Thursday,Lekki-Epe Expressway,Clear,Afternoon,1720,28.9,Moderate
+2026-01-01,14:00,Thursday,Ikorodu Road,Harmattan Haze,Afternoon,1150,22.1,Moderate
+2026-01-01,15:00,Thursday,Apapa-Oshodi Expressway,Clear,Afternoon,1340,26.7,Moderate
+2026-01-01,16:00,Thursday,Third Mainland Bridge,Clear,Evening,3650,124.2,Heavy Gridlock
+2026-01-01,17:00,Thursday,Apapa-Oshodi Expressway,Heavy Rain / Flash Flood,Evening,2210,168.4,Heavy Gridlock
+2026-01-01,18:00,Thursday,Lekki-Epe Expressway,Clear,Evening,3410,132.0,Heavy Gridlock
+2026-01-01,19:00,Thursday,Ikorodu Road,Clear,Evening,2390,115.4,Heavy Gridlock
+2026-01-01,20:00,Thursday,Third Mainland Bridge,Light Rain,Evening,3100,138.2,Heavy Gridlock
+2026-01-01,21:00,Thursday,Apapa-Oshodi Expressway,Clear,Evening,2150,72.6,Heavy Gridlock
+2026-01-01,22:00,Thursday,Lekki-Epe Expressway,Clear,Night,1100,16.4,Low / Free Flow
+2026-01-01,23:00,Thursday,Ikorodu Road,Clear,Night,780,10.5,Low / Free Flow
+2026-01-02,00:00,Friday,Third Mainland Bridge,Clear,Night,950,11.1,Low / Free Flow
+2026-01-02,01:00,Friday,Lekki-Epe Expressway,Clear,Night,810,8.7,Low / Free Flow
+2026-01-02,02:00,Friday,Apapa-Oshodi Expressway,Harmattan Haze,Night,520,13.4,Low / Free Flow
+2026-01-02,03:00,Friday,Ikorodu Road,Clear,Night,460,9.2,Low / Free Flow
+2026-01-02,04:00,Friday,Third Mainland Bridge,Clear,Night,1120,14.8,Low / Free Flow
+2026-01-02,05:00,Friday,Lekki-Epe Expressway,Clear,Morning,2680,85.3,Heavy Gridlock
+2026-01-02,06:00,Friday,Third Mainland Bridge,Clear,Morning,3500,118.9,Heavy Gridlock
+2026-01-02,07:00,Friday,Apapa-Oshodi Expressway,Light Rain,Morning,2200,92.4,Heavy Gridlock
+2026-01-02,08:00,Friday,Ikorodu Road,Clear,Morning,1980,74.2,Heavy Gridlock
+2026-01-02,09:00,Friday,Third Mainland Bridge,Heavy Rain / Flash Flood,Morning,2900,154.6,Heavy Gridlock
+2026-01-02,10:00,Friday,Lekki-Epe Expressway,Clear,Morning,2400,68.7,Heavy Gridlock
+2026-01-02,11:00,Friday,Apapa-Oshodi Expressway,Clear,Morning,1750,59.3,Heavy Gridlock
+2026-01-02,12:00,Friday,Ikorodu Road,Clear,Afternoon,1300,24.5,Moderate
+2026-01-02,13:00,Friday,Third Mainland Bridge,Harmattan Haze,Afternoon,1850,31.2,Moderate
+2026-01-02,14:00,Friday,Lekki-Epe Expressway,Clear,Afternoon,1690,27.4,Moderate
+2026-01-02,15:00,Friday,Apapa-Oshodi Expressway,Clear,Afternoon,1420,23.8,Moderate
+2026-01-02,16:00,Friday,Third Mainland Bridge,Clear,Evening,3720,129.5,Heavy Gridlock
+2026-01-02,17:00,Friday,Lekki-Epe Expressway,Light Rain,Evening,3200,142.1,Heavy Gridlock
+2026-01-02,18:00,Friday,Ikorodu Road,Clear,Evening,2410,108.3,Heavy Gridlock
+2026-01-02,19:00,Friday,Apapa-Oshodi Expressway,Clear,Evening,2300,98.6,Heavy Gridlock
+2026-01-02,20:00,Friday,Third Mainland Bridge,Clear,Evening,3450,116.2,Heavy Gridlock
+2026-01-02,21:00,Friday,Lekki-Epe Expressway,Clear,Evening,2800,82.4,Heavy Gridlock
+2026-01-02,22:00,Friday,Ikorodu Road,Clear,Night,1250,18.1,Low / Free Flow
+2026-01-02,23:00,Friday,Apapa-Oshodi Expressway,Clear,Night,990,12.7,Low / Free Flow
+2026-01-03,00:00,Saturday,Third Mainland Bridge,Clear,Night,1300,16.8,Low / Free Flow
+2026-01-03,01:00,Saturday,Lekki-Epe Expressway,Clear,Night,1150,14.2,Low / Free Flow
+2026-01-03,02:00,Saturday,Ikorodu Road,Clear,Night,720,9.8,Low / Free Flow
+2026-01-03,03:00,Saturday,Apapa-Oshodi Expressway,Clear,Night,610,11.1,Low / Free Flow
+2026-01-03,04:00,Saturday,Third Mainland Bridge,Clear,Night,850,10.3,Low / Free Flow
+2026-01-03,05:00,Saturday,Lekki-Epe Expressway,Clear,Morning,2100,64.2,Heavy Gridlock
+2026-01-03,06:00,Saturday,Third Mainland Bridge,Clear,Morning,2800,89.7,Heavy Gridlock
+2026-01-03,07:00,Saturday,Ikorodu Road,Light Rain,Morning,1750,82.4,Heavy Gridlock
+2026-01-03,08:00,Saturday,Apapa-Oshodi Expressway,Clear,Morning,1900,71.5,Heavy Gridlock
+2026-01-03,09:00,Saturday,Third Mainland Bridge,Clear,Morning,2950,93.8,Heavy Gridlock
+2026-01-03,10:00,Saturday,Lekki-Epe Expressway,Clear,Morning,2200,67.1,Heavy Gridlock
+2026-01-03,11:00,Saturday,Ikorodu Road,Clear,Morning,1600,56.9,Heavy Gridlock
+2026-01-03,12:00,Saturday,Third Mainland Bridge,Clear,Afternoon,2100,34.8,Moderate
+2026-01-03,13:00,Saturday,Lekki-Epe Expressway,Clear,Afternoon,1950,31.5,Moderate
+2026-01-03,14:00,Saturday,Apapa-Oshodi Expressway,Harmattan Haze,Afternoon,1300,25.2,Moderate
+2026-01-03,15:00,Saturday,Ikorodu Road,Clear,Afternoon,1410,24.7,Moderate
+2026-01-03,16:00,Saturday,Third Mainland Bridge,Clear,Evening,3200,104.5,Heavy Gridlock
+2026-01-03,17:00,Saturday,Lekki-Epe Expressway,Heavy Rain / Flash Flood,Evening,2400,152.3,Heavy Gridlock
+2026-01-03,18:00,Saturday,Apapa-Oshodi Expressway,Clear,Evening,2150,88.4,Heavy Gridlock
+2026-01-03,19:00,Saturday,Ikorodu Road,Clear,Evening,2010,81.2,Heavy Gridlock
+2026-01-03,20:00,Saturday,Third Mainland Bridge,Clear,Evening,2900,92.6,Heavy Gridlock
+2026-01-03,21:00,Saturday,Lekki-Epe Expressway,Clear,Evening,2500,78.1,Heavy Gridlock
+2026-01-03,22:00,Saturday,Ikorodu Road,Clear,Night,1400,19.2,Low / Free Flow
+2026-01-03,23:00,Saturday,Apapa-Oshodi Expressway,Clear,Night,1100,15.4,Low / Free Flow
+2026-01-04,00:00,Sunday,Third Mainland Bridge,Clear,Night,1050,12.1,Low / Free Flow
+2026-01-04,01:00,Sunday,Lekki-Epe Expressway,Harmattan Haze,Night,890,14.6,Low / Free Flow
+2026-01-04,02:00,Sunday,Ikorodu Road,Clear,Night,650,8.9,Low / Free Flow
+2026-01-04,03:00,Sunday,Apapa-Oshodi Expressway,Clear,Night,520,10.2,Low / Free Flow
+2026-01-04,04:00,Sunday,Third Mainland Bridge,Clear,Night,710,9.5,Low / Free Flow
+2026-01-04,05:00,Sunday,Third Mainland Bridge,Clear,Morning,2300,74.6,Heavy Gridlock
+2026-01-04,06:00,Sunday,Lekki-Epe Expressway,Clear,Morning,2150,68.9,Heavy Gridlock
+2026-01-04,07:00,Sunday,Ikorodu Road,Clear,Morning,1650,61.2,Heavy Gridlock
+2026-01-04,08:00,Sunday,Apapa-Oshodi Expressway,Light Rain,Morning,1800,79.4,Heavy Gridlock
+2026-01-04,09:00,Sunday,Third Mainland Bridge,Clear,Morning,2500,83.1,Heavy Gridlock
+2026-01-04,10:00,Sunday,Lekki-Epe Expressway,Clear,Morning,2000,62.8,Heavy Gridlock
+2026-01-04,11:00,Sunday,Ikorodu Road,Clear,Morning,1500,55.2,Heavy Gridlock
+2026-01-04,12:00,Sunday,Third Mainland Bridge,Clear,Afternoon,2050,33.1,Moderate
+2026-01-04,13:00,Sunday,Lekki-Epe Expressway,Clear,Afternoon,1800,29.4,Moderate
+2026-01-04,14:00,Sunday,Apapa-Oshodi Expressway,Clear,Afternoon,1250,21.8,Moderate
+2026-01-04,15:00,Sunday,Ikorodu Road,Clear,Afternoon,1350,23.5,Moderate
+2026-01-04,16:00,Sunday,Third Mainland Bridge,Light Rain,Evening,2800,102.6,Heavy Gridlock
+2026-01-04,17:00,Sunday,Lekki-Epe Expressway,Clear,Evening,2950,96.4,Heavy Gridlock
+2026-01-04,18:00,Sunday,Apapa-Oshodi Expressway,Clear,Evening,2100,82.1,Heavy Gridlock
+2026-01-04,19:00,Sunday,Ikorodu Road,Clear,Evening,1900,76.5,Heavy Gridlock
+2026-01-04,20:00,Sunday,Third Mainland Bridge,Heavy Rain / Flash Flood,Evening,2200,142.9,Heavy Gridlock
+2026-01-04,21:00,Sunday,Lekki-Epe Expressway,Clear,Evening,2300,73.4,Heavy Gridlock
+2026-01-04,22:00,Sunday,Ikorodu Road,Clear,Night,1200,16.2,Low / Free Flow
+2026-01-04,23:00,Sunday,Apapa-Oshodi Expressway,Clear,Night,950,11.8,Low / Free Flow
+2026-01-05,00:00,Monday,Third Mainland Bridge,Clear,Night,880,10.1,Low / Free Flow
+2026-01-05,01:00,Monday,Lekki-Epe Expressway,Clear,Night,740,8.4,Low / Free Flow
+2026-01-05,02:00,Monday,Ikorodu Road,Clear,Night,510,9.1,Low / Free Flow
+2026-01-05,03:00,Monday,Apapa-Oshodi Expressway,Harmattan Haze,Night,430,12.3,Low / Free Flow
