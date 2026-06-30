@@ -5,7 +5,7 @@
 An end-to-end data science and business intelligence project designed
 to predict road traffic delays across critical transit corridors in
 Lagos, Nigeria. This repository contains the complete technical
-implementation, including synthetic spatial-temporal data generation,
+implementation, including data generation,
 predictive machine learning pipelines (XGBoost), exploratory data
 visualization scripts, and blueprints for an enterprise Power BI
 dashboard.
