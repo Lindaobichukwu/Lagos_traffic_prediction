@@ -56,7 +56,7 @@ The dataset contains hourly traffic observations across major Lagos roads.
 | Road_Name | Major road in Lagos |
 | Weather_Condition | Weather state (Clear, Rain, Haze, etc.) |
 | Time_of_Day | Morning, Afternoon, Evening, Night |
-| Traffic_Volume | Number of vehicles (simulated realistic pattern) |
+| Traffic_Volume | Number of vehicles |
 | Delay_Minutes | Average delay per observation |
 | Congestion_Level | Target variable (Low, Moderate, Heavy Gridlock) |
 
@@ -111,7 +111,7 @@ The dataset contains hourly traffic observations across major Lagos roads.
 ### 🔹 Traffic Volume By Delay
 - Hours spent on a specific road
 
-### 🔹 Traffic Volume Distribution
+### 🔹 Number of Cars Distribution
 - Peak hours and empty night roads
 
 ### 🔹 Congestion Levels
@@ -133,7 +133,7 @@ The dataset contains hourly traffic observations across major Lagos roads.
 - Congestion_Level
 
 ### Feature Set:
-- Traffic Volume
+- Traffic Volume (Number of Cars)
 - Hour
 - Road Name
 - Weather Condition
@@ -195,7 +195,6 @@ ________________________________
 
 This project is designed for:
 
-MEXT Scholarship applications (Japan)
 Graduate research in AI / Data Science
 Smart City & Transportation research
 Machine Learning portfolio development
